@@ -51,4 +51,4 @@ let stringIncome = "a5b7c3"; // input String here !!!
 
 let auswerInt = convertString2int(stringIncome);
 
-console.log("Auswer: Number from String %s is",stringIncome,auswerInt);
+console.log("Auswer: Number from String %s is",stringIncome,auswerInt); // Auswer: Number from String a5b7c3 is 573
